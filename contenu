@@ -1,0 +1,3 @@
+Repository pour un réseau DLS français. Regroupe un ensemble d'étude de cas sur l'ensemble des facades françaises. 
+Chaque sous dossier prend le nom de l'espèce et de la zone d'étude (exemple: Homarus_gammarus_Manche) 
+et est divisé en un dossier 01_data, 02_analysis, 03_reference, 04_document
